@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CEB</string>
+    <string name="button">Button</string>
+    <string name="report">Report</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_tele_number">Enter Your Tele Number</string>
+    <string name="complaint">Complaint</string>
+</resources>
